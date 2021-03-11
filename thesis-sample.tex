@@ -1,0 +1,38 @@
+\documentclass[thesis]{thesis-gwu}[2020/05/21]
+
+%\renewcommand{\vec}[1]{\mathbf{#1}}
+\newcommand\tab[1][0.5cm]{\hspace*{#1}}
+\def\etal{{\it et al.}}
+
+% this package is only used to generate some random text. 
+% it is not needed in a true document
+\usepackage{lipsum}
+\usepackage{textcomp}
+\usepackage{placeins}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\usepackage{tabularx}
+
+\input{tex/frontmatter}
+
+% this will speed up your tikz figures by building them once to another directory
+\usepackage{pgfplots}
+\usepgfplotslibrary{external}
+\tikzexternalize
+\tikzsetexternalprefix{cache/}
+
+%% DOCUMENT AREA
+\begin{document}
+
+\include{tex/intro}
+\include{tex/formulation}
+%\include{tex/manual}
+\include{tex/results}
+\include{tex/gravity}
+\include{tex/applications}
+\include{tex/conclusion}
+\include{tex/appendix}
+\bibliographystyle{unsrt}
+\bibliography{thesis-bib,biblioXIII,biblioXII_ktk,REFERENCES,Flash}
+% appendices must appear after
+\end{document}

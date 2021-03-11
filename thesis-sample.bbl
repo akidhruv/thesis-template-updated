@@ -1,0 +1,573 @@
+\begin{thebibliography}{10}
+
+\bibitem{lamachines}
+{\em LA Machines}.
+\newblock \url{https://www.youtube.com/user/PhucGL/featured}.
+
+\bibitem{Vanella2010}
+Marcos Vanella, Patrick Rabenold, and Elias Balaras.
+\newblock {A direct-forcing embedded-boundary method with adaptive mesh
+  refinement for fluid–structure interaction problems}.
+\newblock {\em Journal of Computational Physics}, 229(18):6427--6449, 2010.
+
+\bibitem{Mukherjee2004}
+a.~Mukherjee and V.~K. Dhir.
+\newblock {Study of Lateral Merger of Vapor Bubbles During Nucleate Pool
+  Boiling}.
+\newblock {\em Journal of Heat Transfer}, 126(6):1023, 2004.
+
+\bibitem{braza_chassaing_minh_1986}
+M.~Braza, P.~Chassaing, and H.~Ha Minh.
+\newblock Numerical study and physical analysis of the pressure and velocity
+  fields in the near wake of a circular cylinder.
+\newblock {\em Journal of Fluid Mechanics}, 165:79–130, 1986.
+
+\bibitem{Gibou2007}
+Fr{\'{e}}d{\'{e}}ric Gibou, Liguo Chen, Duc Nguyen, and Sanjoy Banerjee.
+\newblock {A level set based sharp interface method for the multiphase
+  incompressible Navier-Stokes equations with phase change}.
+\newblock {\em Journal of Computational Physics}, 222(2):536--555, 2007.
+
+\bibitem{Dhir2012}
+Vijay Dhir, Gopinath Warrier, Eduardo Aktinol, David Chao, William Sheredy,
+  Jeffery Eggers, and Wendell Booth.
+\newblock {Observations on ISS of Bubble Dynamics During Boiling}.
+\newblock jan 2012.
+
+\bibitem{KIM20023919}
+Jungho Kim, John~F Benton, and Derek Wisniewski.
+\newblock Pool boiling heat transfer on small heaters: effect of gravity and
+  subcooling.
+\newblock {\em International Journal of Heat and Mass Transfer}, 45(19):3919 --
+  3932, 2002.
+
+\bibitem{Raj2012}
+Rishi Raj, Jungho Kim, and John McQuillen.
+\newblock {Pool Boiling Heat Transfer on the International Space Station:
+  Experimental Results and Model Verification}.
+\newblock {\em Journal of Heat Transfer}, 134(10):101504, 2012.
+
+\bibitem{sophia2019}
+Sophia Relph, Ken Kiger, Akash Dhruv, and Elias Balaras.
+\newblock Air entrainment mechanisms of a forced plunging jet.
+\newblock {\em APS: DFD}, 2019.
+
+\bibitem{lee_moser_2015}
+Myoungkyu Lee and Robert~D. Moser.
+\newblock Direct numerical simulation of turbulent channel flow up to
+  $\mathit{Re}_{{\it\tau}}\approx 5200$.
+\newblock {\em Journal of Fluid Mechanics}, 774:395–415, 2015.
+
+\bibitem{WuE5292}
+Xiaohua Wu, Parviz Moin, James~M. Wallace, Jinhie Skarda, Adri{\'a}n
+  Lozano-Dur{\'a}n, and Jean-Pierre Hickey.
+\newblock Transitional{\textendash}turbulent spots and
+  turbulent{\textendash}turbulent spots in boundary layers.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  114(27):E5292--E5299, 2017.
+
+\bibitem{VerziccoRB2017}
+Kai~Leong Chong, Yantao Yang, Shi-Di Huang, Jin-Qiang Zhong, Richard J. A.~M.
+  Stevens, Roberto Verzicco, Detlef Lohse, and Ke-Qing Xia.
+\newblock Confined rayleigh-b\'enard, rotating rayleigh-b\'enard, and double
+  diffusive convection: A unifying view on turbulent transport enhancement
+  through coherent structure manipulation.
+\newblock {\em Phys. Rev. Lett.}, 119:064501, Aug 2017.
+
+\bibitem{kim_bodony_freund_2014}
+Jeonglae Kim, Daniel~J. Bodony, and Jonathan~B. Freund.
+\newblock Adjoint-based control of loud events in a turbulent jet.
+\newblock {\em Journal of Fluid Mechanics}, 741:28–59, 2014.
+
+\bibitem{ousterhout2018philosophy}
+J.K. Ousterhout.
+\newblock {\em A Philosophy of Software Design}.
+\newblock Yaknyam Press, 2018.
+
+\bibitem{Nek5000}
+NEK5000~Version 17.0.
+\newblock Argonne national laboratory, illinois.
+\newblock {\em Available: https://nek5000.mcs.anl.gov.}
+
+\bibitem{Merzari19}
+Mustafa~Alper Yildiz, Haomin Yuan, Elia Merzari, and Yassin Hassan.
+\newblock Numerical simulation of isothermal flow across slant five-tube bundle
+  with spectral element method code nek5000.
+\newblock {\em Nuclear Technology}, 0(0):1--11, 2019.
+
+\bibitem{10.1115/IMECE2015-53671}
+Murphy~Leo O’Dea and Laila Guessous.
+\newblock {Simulation of Wind Turbine Flow Using the Actuator Line Method in
+  NEK5000}.
+\newblock {\em Volume 7B: Fluids Engineering Systems and Technologies, ASME
+  International Mechanical Engineering Congress and Exposition}, 2015.
+\newblock V07BT09A052.
+
+\bibitem{PyFR}
+P.~E.~Vincent. F.~D.~Witherden, A. M.~Farrington.
+\newblock Pyfr: An open source framework for solving advection-diffusion type
+  problems on streaming architectures using the flux reconstruction approach.
+\newblock {\em Computer Physics Communications}, 185:3028--3040, 2014.
+
+\bibitem{OpenFOAM}
+OpenFOAM~Version 7.
+\newblock The openfoam foundation.
+\newblock {\em Available: https://openfoam.org.}
+
+\bibitem{Dubey2012}
+A.~{Dubey}, C.~{Daley}, J.~{ZuHone}, P.~M. {Ricker}, K.~{Weide}, and
+  C.~{Graziani}.
+\newblock {Imposing a {Lagrangian} particle framework on an {Eulerian}
+  hydrodynamics infrastructure in {FLASH}}.
+\newblock {\em ApJ Supplement}, 201:27, aug 2012.
+
+\bibitem{YOUNG1998}
+Timothy~J. Young and Kambiz Vafai.
+\newblock Convective cooling of a heated obstacle in a channel.
+\newblock {\em International Journal of Heat and Mass Transfer}, 41(20):3131 --
+  3148, 1998.
+
+\bibitem{farshad2019}
+Farshad Nasiri and Elias Balaras.
+\newblock The effects of froude number on a turbulent boundary layer with a
+  free-surface.
+\newblock {\em Flow, Turbulence and Combustion}, 2019.
+
+\bibitem{griffin1991ladle}
+J.A. Griffin and C.E. Bates.
+\newblock {\em Ladle Treating, Pouring, and Gating for the Production of Clean
+  Steel Castings}.
+\newblock Research report (Steel Founders' Society of America). Technical
+  Steering Committee, Steel Founders' Society of America, 1991.
+
+\bibitem{holmes2012}
+Geoffrey Holems and David Keith.
+\newblock An air–liquid contactor for large-scale capture of co2 from air.
+\newblock {\em Philosophical transcations of the royal society}, 2012.
+
+\bibitem{lgmartinez2019}
+Luis~Gustavo Martinez, Akash Dhruv, Li~Lin, Elias Balaras, and Michael Keidar.
+\newblock Interaction between a helium atmospheric plasma jet and targets and
+  dynamics of the interface.
+\newblock {\em Plasma Sources Science and Technology}, 2019.
+
+\bibitem{YANG20096590}
+Jianming Yang and Frederick Stern.
+\newblock Sharp interface immersed-boundary/level-set method for wave–body
+  interactions.
+\newblock {\em Journal of Computational Physics}, 228(17):6590 -- 6616, 2009.
+
+\bibitem{CALDERER2014201}
+Antoni Calderer, Seokkoo Kang, and Fotis Sotiropoulos.
+\newblock Level set immersed boundary method for coupled simulation of
+  air/water interaction with complex floating structures.
+\newblock {\em Journal of Computational Physics}, 277:201 -- 227, 2014.
+
+\bibitem{FRANTZIS201928}
+C.~Frantzis and D.G.E. Grigoriadis.
+\newblock An efficient method for two-fluid incompressible flows appropriate
+  for the immersed boundary method.
+\newblock {\em Journal of Computational Physics}, 376:28 -- 53, 2019.
+
+\bibitem{DIANAT201719}
+M.~Dianat, M.~Skarysz, and A.~Garmory.
+\newblock A coupled level set and volume of fluid method for automotive
+  exterior water management applications.
+\newblock {\em International Journal of Multiphase Flow}, 91:19 -- 38, 2017.
+
+\bibitem{PATEL201728}
+H.V. Patel, S.~Das, J.A.M. Kuipers, J.T. Padding, and E.A.J.F. Peters.
+\newblock A coupled volume of fluid and immersed boundary method for simulating
+  3d multiphase flows with contact line dynamics in complex geometries.
+\newblock {\em Chemical Engineering Science}, 166:28 -- 41, 2017.
+
+\bibitem{OBRIEN201843}
+Adam O’Brien and Markus Bussmann.
+\newblock A volume-of-fluid ghost-cell immersed boundary method for multiphase
+  flows with contact line dynamics.
+\newblock {\em Computers and Fluids}, 165:43 -- 53, 2018.
+
+\bibitem{SATO2017505}
+Yohei Sato and Bojan Niceno.
+\newblock Nucleate pool boiling simulations using the interface tracking
+  method: Boiling regime from discrete bubble to vapor mushroom region.
+\newblock {\em International Journal of Heat and Mass Transfer}, 105:505 --
+  524, 2017.
+
+\bibitem{SATO2018876}
+Yohei Sato and Bojan Niceno.
+\newblock Pool boiling simulation using an interface tracking method: From
+  nucleate boiling to film boiling regime through critical heat flux.
+\newblock {\em International Journal of Heat and Mass Transfer}, 125:876 --
+  890, 2018.
+
+\bibitem{Yazdani2016}
+Miad Yazdani, Thomas Radcliff, Marios Soteriou, and Abbas~A. Alahyari.
+\newblock {A high-fidelity approach towards simulation of pool boiling}.
+\newblock {\em Physics of Fluids}, 28(1):1--30, 2016.
+
+\bibitem{Narumanchi2008}
+D.~Bharathan S.~Narumanchi, A.~Troshko and V.~Hassani.
+\newblock Numerical simulations of nucleate boiling in impinging jets:
+  Applications in power electronics cooling.
+\newblock {\em International Journal of Heat and Mass Transfer}, 51:1--12,
+  2008.
+
+\bibitem{bolotnov2010}
+I.A. Bolotnov, F.~Behafarid, D.~Shaver, T.~Guo, S.~Wang, H.~Wei, S.P. Antal,
+  K.E. Jansen, R.~Samulyak, and M.Z. Podowski.
+\newblock Interaction of computational tools for multiscale multiphysics
+  simulation of generation-iv reactors.
+\newblock {\em Proceedings of ICAPP}, 2010.
+
+\bibitem{NAGRATH20054565}
+Sunitha Nagrath, Kenneth~E. Jansen, and Richard~T. Lahey.
+\newblock Computation of incompressible bubble dynamics with a stabilized
+  finite element level set method.
+\newblock {\em Computer Methods in Applied Mechanics and Engineering},
+  194(42):4565 -- 4587, 2005.
+
+\bibitem{RODRIGUEZ2013115}
+Joseph~M. Rodriguez, Onkar Sahni, Richard~T. Lahey, and Kenneth~E. Jansen.
+\newblock A parallel adaptive mesh method for the numerical simulation of
+  multiphase flows.
+\newblock {\em Computers and Fluids}, 87:115 -- 131, 2013.
+\newblock USNCCM Moving Boundaries.
+
+\bibitem{KIM2006208}
+Jeongbae Kim, Byung~Do Oh, and Moo~Hwan Kim.
+\newblock Experimental study of pool temperature effects on nucleate pool
+  boiling.
+\newblock {\em International Journal of Multiphase Flow}, 32(2):208 -- 231,
+  2006.
+
+\bibitem{URBANO20181128}
+A.~Urbano, S.~Tanguy, G.~Huber, and C.~Colin.
+\newblock Direct numerical simulation of nucleate boiling in micro-layer
+  regime.
+\newblock {\em International Journal of Heat and Mass Transfer}, 123:1128 --
+  1137, 2018.
+
+\bibitem{UTAKA2013222}
+Yoshio Utaka, Yuki Kashiwabara, and Michio Ozaki.
+\newblock Microlayer structure in nucleate boiling of water and ethanol at
+  atmospheric pressure.
+\newblock {\em International Journal of Heat and Mass Transfer}, 57(1):222 --
+  230, 2013.
+
+\bibitem{Gilman2017}
+Lindsey Gilman and Emilio Baglietto.
+\newblock {A Self-Consistent, Physics-Based Boiling Heat Transfer Modeling
+  Framework for use in Computational Fluid Dynamics}.
+\newblock {\em International Journal of Multiphase Flow}, 2017.
+
+\bibitem{Dubey2014}
+Anshu Dubey, Ann Almgren, John Bell, Martin Berzins, Steve Brandt, Greg Bryan,
+  Phillip Colella, Daniel Graves, Michael Lijewski, Frank L{\"o}ffler, Brian
+  O'Shea, Erik Schnetter, Brian~Van Straalen, and Klaus Weide.
+\newblock A survey of high level frameworks in block-structured adaptive mesh
+  refinement packages.
+\newblock {\em Journal of Parallel and Distributed Computing},
+  74(12):3217--3227, 2014.
+
+\bibitem{Oneal2018}
+Jared O'Neal, Klaus Weide, and Anshu Dubey.
+\newblock Experience reort: Refactoring the mesh interface in flash, a
+  multiphysics software.
+\newblock In {\em WSSSPE6.1, colocated with eScience 2018, Amsterdam,
+  Netherlands}, 2018.
+
+\bibitem{Delaney2015}
+Keegan Delaney.
+\newblock {An Adaptive Mesh Refinement Solver for Multiphase Incompressible
+  Flows with Large Density Ratios}.
+\newblock {\em PhD Proposal}, 1, 2015.
+
+\bibitem{Gibou2002}
+Frederic Gibou, Ronald~P. Fedkiw, Li-Tien Cheng, and Myungjoo Kang.
+\newblock {A Second-Order-Accurate Symmetric Discretization of the Poisson
+  Equation on Irregular Domains}.
+\newblock {\em Journal of Computational Physics}, 176(1):205--227, 2002.
+
+\bibitem{Vanella:2009bi}
+M.~Vanella and E.~Balaras.
+\newblock {A moving-least-squares reconstruction for embedded-boundary
+  formulations}.
+\newblock {\em J. Comput. Phys.}, 228(18):6617--6628, 2009.
+
+\bibitem{Daley2012}
+Christopher Daley, Marcos Vanella, Anshu Dubey, Klaus Weide, and Elias Balaras.
+\newblock {Optimization of multigrid based elliptic solver for large scale
+  simulations in the FLASH code}.
+\newblock (February):2346--2361, 2012.
+
+\bibitem{DHRUV2019}
+Akash Dhruv, Elias Balaras, Amir Riaz, and Jungho Kim.
+\newblock A formulation for high-fidelity simulations of pool boiling in low
+  gravity.
+\newblock {\em International Journal of Multiphase Flow}, page 103099, 2019.
+
+\bibitem{Vanella2009}
+Marcos Vanella and Elias Balaras.
+\newblock {Short Note A moving-least-squares reconstruction for
+  embedded-boundary formulations}.
+\newblock {\em Journal of Computational Physics}, 228(18):6617--6628, 2009.
+
+\bibitem{Song2017}
+Jeong~Chul Song, Joon Ahn, and Joon~Sik Lee.
+\newblock An immersed-boundary method for conjugate heat transfer analysis.
+\newblock {\em Journal of Mechanical Science and Technology}, 31(5):2287--2294,
+  May 2017.
+
+\bibitem{SATO201676}
+Norikazu Sato, Shintaro Takeuchi, Takeo Kajishima, Masahide Inagaki, and
+  Nariaki Horinouchi.
+\newblock A consistent direct discretization scheme on cartesian grids for
+  convective and conjugate heat transfer.
+\newblock {\em Journal of Computational Physics}, 321:76 -- 104, 2016.
+
+\bibitem{KIM2019301}
+Woojin Kim and Haecheon Choi.
+\newblock Immersed boundary methods for fluid-structure interaction: A review.
+\newblock {\em International Journal of Heat and Fluid Flow}, 75:301 -- 309,
+  2019.
+
+\bibitem{YANG200612}
+Jianming Yang and Elias Balaras.
+\newblock An embedded-boundary formulation for large-eddy simulation of
+  turbulent flows interacting with moving boundaries.
+\newblock {\em Journal of Computational Physics}, 215(1):12 -- 40, 2006.
+
+\bibitem{DEMARINIS2015215}
+D.~De Marinis, M.D. de~Tullio, M.~Napolitano, and G.~Pascazio.
+\newblock A conjugate-heat-transfer immersed-boundary method for turbine
+  cooling.
+\newblock {\em Energy Procedia}, 82:215 -- 221, 2015.
+\newblock 70th Conference of the Italian Thermal Machines Engineering
+  Association, ATI2015.
+
+\bibitem{Son1999}
+G~Son and V~K Dhir.
+\newblock {Dynamics and Heat Transfer Associated With a Single Bubble During
+  Nucleate Boiling on a Horizontal Surface}.
+\newblock 121(August 1999):623--631, 1999.
+
+\bibitem{Delaney2014}
+Keegan Delaney.
+\newblock {Flows with Large Density Ratios}.
+\newblock (May 2007), 2014.
+
+\bibitem{Son2007}
+Gihun Son and Vijay~K. Dhir.
+\newblock {A Level Set Method for Analysis of Film Boiling on an Immersed Solid
+  Surface}.
+\newblock {\em Numerical Heat Transfer, Part B: Fundamentals}, 52(January
+  2015):153--177, 2007.
+
+\bibitem{SUSSMAN1994146}
+Mark Sussman, Peter Smereka, and Stanley Osher.
+\newblock A level set approach for computing solutions to incompressible
+  two-phase flow.
+\newblock {\em Journal of Computational Physics}, 114(1):146 -- 159, 1994.
+
+\bibitem{LEE2017381}
+Moon~Soo Lee, Amir Riaz, and Vikrant Aute.
+\newblock Direct numerical simulation of incompressible multiphase flow with
+  phase change.
+\newblock {\em Journal of Computational Physics}, 344:381 -- 418, 2017.
+
+\bibitem{Son2008}
+Gihun Son and Vijay~K. Dhir.
+\newblock {Numerical simulation of nucleate boiling on a horizontal surface at
+  high heat fluxes}.
+\newblock {\em International Journal of Heat and Mass Transfer},
+  51(9-10):2566--2582, 2008.
+
+\bibitem{Vanella:2010dm}
+Marcos Vanella, Patrick Rabenold, and Elias Balaras.
+\newblock A direct-forcing embedded-boundary method with adaptive mesh
+  refinement for fluid--structure interaction problems.
+\newblock {\em Journal of Computational Physics}, 229(18):6427--6449, 2010.
+
+\bibitem{POSA2017422}
+Antonio Posa, Marcos Vanella, and Elias Balaras.
+\newblock An adaptive reconstruction for lagrangian, direct-forcing,
+  immersed-boundary methods.
+\newblock {\em Journal of Computational Physics}, 351:422 -- 436, 2017.
+
+\bibitem{Aslam2004}
+Tariq~D. Aslam.
+\newblock {A partial differential equation approach to multidimensional
+  extrapolation}.
+\newblock {\em Journal of Computational Physics}, 193(1):349--355, 2004.
+
+\bibitem{Mukherjee2007}
+Abhijit Mukherjee and Satish~G. Kandlikar.
+\newblock {Numerical study of single bubbles with dynamic contact angle during
+  nucleate pool boiling}.
+\newblock {\em International Journal of Heat and Mass Transfer},
+  50(1-2):127--138, 2007.
+
+\bibitem{Truscott}
+Tadd~T. Truscott, Brenden~P. Epps, and Jesse Belden.
+\newblock Water entry of projectiles.
+\newblock {\em Annual Review of Fluid Mechanics}, 46(1):355--378, 2014.
+
+\bibitem{louf_chang_eshraghi_mituniewicz_vlachos_jung_2018}
+Jean-François Louf, Brian Chang, Javad Eshraghi, Austin Mituniewicz, Pavlos~P.
+  Vlachos, and Sunghwan Jung.
+\newblock Cavity ripple dynamics after pinch-off.
+\newblock {\em Journal of Fluid Mechanics}, 850:611–623, 2018.
+
+\bibitem{PMID:8204213}
+R~Zhang and CT~Zhang.
+\newblock Z curves, an intutive tool for visualizing and analyzing the dna
+  sequences.
+\newblock {\em Journal of biomolecular structure and dynamics}, 11(4):767--782,
+  February 1994.
+
+\bibitem{shizhao2011}
+Shizhao Wang and Xing Zhang.
+\newblock An immersed boundary method based on discrete stream function
+  formulation for two- and three-dimensional incompressible flows.
+\newblock {\em Journal of Computational Physics}, 230:3479--3499, 05 2011.
+
+\bibitem{TAIRA20072118}
+Kunihiko Taira and Tim Colonius.
+\newblock The immersed boundary method: A projection approach.
+\newblock {\em Journal of Computational Physics}, 225(2):2118 -- 2137, 2007.
+
+\bibitem{SATO2013127}
+Yohei Sato and Bojan Ničeno.
+\newblock A sharp-interface phase change model for a mass-conservative
+  interface tracking method.
+\newblock {\em Journal of Computational Physics}, 249:127 -- 161, 2013.
+
+\bibitem{Georgoulas2017}
+Anastasios Georgoulas, Manolia Andredaki, and Marco Marengo.
+\newblock {An Enhanced VOF Method Coupled with Heat Transfer and Phase Change
+  to Characterise Bubble Detachment in Saturated Pool Boiling}.
+\newblock {\em Energies}, 10(3):272, 2017.
+
+\bibitem{Son2010}
+Gihun Son.
+\newblock {Numerical Heat Transfer , Part B : Fundamentals : An International
+  Journal of A Numerical Method for Bubble Motion with Phase Change}.
+\newblock (April 2012):37--41, 2010.
+
+\bibitem{Welch2000}
+Samuel~W.J. Welch and John Wilson.
+\newblock {A Volume of Fluid Based Method for Fluid Flows with Phase Change}.
+\newblock {\em Journal of Computational Physics}, 160(2):662--682, 2000.
+
+\bibitem{Kim2006}
+Jeongbae Kim, Byung Do, and Moo~Hwan Kim.
+\newblock {Experimental study of pool temperature effects on nucleate pool
+  boiling}.
+\newblock 32:208--231, 2006.
+
+\bibitem{WARRIER2015781}
+Gopinath~R. Warrier, Vijay~K. Dhir, and David~F. Chao.
+\newblock Nucleate pool boiling experiment (npbx) in microgravity:
+  International space station.
+\newblock {\em International Journal of Heat and Mass Transfer}, 83:781 -- 798,
+  2015.
+
+\bibitem{Raj}
+Rishi Raj, John Mcquillen, and Jungho Kim.
+\newblock {On the Scaling of Pool Boiling Heat Flux with Gravity and Heater
+  Size : Aircraft and ISS Results}.
+
+\bibitem{Kim2014}
+Jungho Kim and Rishi Raj.
+\newblock {Gravity and Heater Size Effects on Pool Boiling Heat Transfer}.
+\newblock (May), 2014.
+
+\bibitem{STRAUB200157}
+Johannes Straub.
+\newblock Boiling heat transfer and bubble dynamics in microgravity.
+\newblock volume~35 of {\em Advances in Heat Transfer}, pages 57 -- 172.
+  Elsevier, 2001.
+
+\bibitem{ZHAO2010135}
+J.F. Zhao.
+\newblock Two-phase flow and pool boiling heat transfer in microgravity.
+\newblock {\em International Journal of Multiphase Flow}, 36(2):135 -- 143,
+  2010.
+\newblock Special Issue: Multiphase Flow Research in China.
+
+\bibitem{OHTA2003}
+Haruhiko Ohta.
+\newblock Review of reduced gravity boiling heat transfer: Japanese research.
+\newblock {\em The Japan Society of Microgravity Application}, 20(4):272--285,
+  2003.
+
+\bibitem{brocchini_peregrine_2001}
+M.~BROCCHINI and D.~H. PEREGRINE.
+\newblock The dynamics of strong turbulence at free surfaces. part 2.
+  free-surface boundary conditions.
+\newblock {\em Journal of Fluid Mechanics}, 449:255–290, 2001.
+
+\bibitem{BASU2005}
+Vijay~Dhir Nilanjana~Basu, Gopinath~Warrier.
+\newblock Wall heat flux partitioning during subcooled flow boiling: Part 1 -
+  model development.
+\newblock {\em Journal of Heat Transfer}, 127:131--140, 2005.
+
+\bibitem{LI2015409}
+Zhen-Dong Li, Liang Zhang, Jian-Fu Zhao, Hui-Xiong Li, Kai Li, and Ke~Wu.
+\newblock Numerical simulation of bubble dynamics and heat transfer with
+  transient thermal response of solid wall during pool boiling of fc-72.
+\newblock {\em International Journal of Heat and Mass Transfer}, 84:409 -- 418,
+  2015.
+
+\bibitem{ZHANG2015118}
+Liang Zhang, Zhen-Dong Li, Kai Li, Hui-Xiong Li, and Jian-Fu Zhao.
+\newblock Influence of heater thermal capacity on bubble dynamics and heat
+  transfer in nucleate pool boiling.
+\newblock {\em Applied Thermal Engineering}, 88:118 -- 126, 2015.
+\newblock Special Issue for International Heat Transfer Symposium 2014.
+
+\bibitem{HSU1986}
+R.W.~Graham Y.-Y.~Hsu.
+\newblock Transport processes in boiling and two- phase systems.
+\newblock {\em American Nuclear Society, Lagrange Park, Illinois}, pages
+  15--18, 1986.
+
+\bibitem{STEPHAN1992383}
+P.C. Stephan and C.A. Busse.
+\newblock Analysis of the heat transfer coefficient of grooved heat pipe
+  evaporator walls.
+\newblock {\em International Journal of Heat and Mass Transfer}, 35(2):383 --
+  391, 1992.
+
+\bibitem{Sato2015a}
+Yohei Sato and Bojan Niceno.
+\newblock {A depletable micro-layer model for nucleate pool boiling}.
+\newblock {\em Journal of Computational Physics}, 300:20--52, 2015.
+
+\bibitem{KIM20091067}
+Jungho Kim.
+\newblock Review of nucleate pool boiling bubble heat transfer mechanisms.
+\newblock {\em International Journal of Multiphase Flow}, 35(12):1067 -- 1076,
+  2009.
+
+\bibitem{GILMAN201735}
+Lindsey Gilman and Emilio Baglietto.
+\newblock A self-consistent, physics-based boiling heat transfer modeling
+  framework for use in computational fluid dynamics.
+\newblock {\em International Journal of Multiphase Flow}, 95:35 -- 53, 2017.
+
+\bibitem{ZhangBook}
+Zhang Zhongqiang and Karniadakis George.
+\newblock {\em Numerical Methods for Stochastic Partial Differential Equations
+  with White Noise}, volume 197.
+\newblock Springer International Publishing, 1 edition, 2017.
+
+\bibitem{barcohen}
+A.~{Bar-Cohen}, M.~{Arik}, and M.~{Ohadi}.
+\newblock Direct liquid cooling of high flux micro and nano electronic
+  components.
+\newblock {\em Proceedings of the IEEE}, 94(8):1549--1570, Aug 2006.
+
+\end{thebibliography}
